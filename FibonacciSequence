@@ -52,3 +52,4 @@ def main():
 end = time.time()
 main()
 
+#NOT RECURSIVE

@@ -1,7 +1,6 @@
 
-#!
-# Ana Eugenia Sanchez Villalobos, este programa se basa en recibir nombres de personas y poder escribirlos con sus debidas mayusculas. 
-# version 5.2.38
+#!/usr/bin/python3
+
 lista  = [] 
 while (True):
 	x = str(input("Escriba el nombre que desea procesar, o SALIR para salir: "))

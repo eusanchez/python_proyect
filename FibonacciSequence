@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-#Ana Eugenia Sanchez Villalobos 
-#version de ubuntu 12.04
+
 
 import argparse
 import time

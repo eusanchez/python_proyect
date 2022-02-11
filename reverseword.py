@@ -7,4 +7,4 @@ lista = list(usuario)
 lista.reverse()
 print ("Esta es mi palabra en reversa: ", "".join(lista)) #palabra reversa
 
-print("Esta es mi palabra original: ",usuario)
+print("Esta es mi palabra original: ",usuario) #palabra original
